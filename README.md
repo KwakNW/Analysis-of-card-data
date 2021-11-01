@@ -1,7 +1,7 @@
 # POSCO_B3_BIGDATA
 포스코 청년 AI, 빅데이터 아카데미 13기 B3 팀 프로젝트
 
-<strong> 카드 사용 특성을 반영한 차별화된 서비스 제공 및 텔레마케팅 성공 예측 모델 개발로 수익 향상 </strong>
+<strong> 카드 사용 특성을 반영한 차별화된 서비스 제공 및 텔레마케팅 성공 예측 모델 개발로 수익 향상(Analysis of card data) </strong>
 
 <h5>사용 언어 및 Tool</h5>
 
