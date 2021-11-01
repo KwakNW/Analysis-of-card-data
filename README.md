@@ -10,9 +10,10 @@
 <h5> 데이터 </h5>
 
 데이터 csv 파일은 공유하지 않음.
-![image](https://user-images.githubusercontent.com/68180545/139640318-99b5edb0-2c94-45f2-a766-4eda7b6c06c8.png)
-![image](https://user-images.githubusercontent.com/68180545/139640378-4206c560-4b1b-44ba-93fc-b854239f8cff.png)
-![image](https://user-images.githubusercontent.com/68180545/139640475-ea572f88-6f5a-48e1-a2c9-d8dc5401d7eb.png)
+![image](https://user-images.githubusercontent.com/68180545/139642709-17a0d218-62c0-428f-b390-2568d3749c20.png)
+![image](https://user-images.githubusercontent.com/68180545/139642722-ffe80563-fb28-4fb6-be34-333d047b0ede.png)
+![image](https://user-images.githubusercontent.com/68180545/139642734-dae9b51d-1648-45cf-a40f-97c811f3ed0b.png)
+
 
 <h5> 분석 </h5>
 
